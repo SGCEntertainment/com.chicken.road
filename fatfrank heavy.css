@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'FatFrank Heavy';
+    src: url('fonts/FatFrank.eot');
+    src: url('fonts/FatFrank.eot?#iefix') format('embedded-opentype'),
+         url('fonts/FatFrank.svg#FatFrank Heavy') format('svg');
+}

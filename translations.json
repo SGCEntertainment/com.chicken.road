@@ -1,0 +1,96 @@
+{
+  "languages": {
+    "US": {
+      "button": "PLAY",
+      "message": "CONGRATULATIONS!\nYOU HAVE WON\n$450\nGet your bonus and join the Chicken road game!\nGET YOUR BONUS"
+    },
+    "UK": {
+      "button": "PLAY",
+      "message": "CONGRATULATIONS!\nYOU HAVE WON\n£390\nGet your bonus and join the Chicken road game!\nGET YOUR BONUS"
+    },
+    "FR": {
+      "button": "JOUER",
+      "message": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ\n450 €\nObtenez votre bonus et rejoignez le jeu Chicken road!\nOBTENEZ VOTRE BONUS"
+    },
+    "DE": {
+      "button": "SPIELEN",
+      "message": "HERZLICHEN GLÜCKWUNSCH!\nSIE HABEN GEWONNEN\n450 €\nHolen Sie sich Ihren Bonus und nehmen Sie am Chicken road teil!\nHOLEN SIE SICH IHREN BONUS"
+    },
+    "IT": {
+      "button": "GIOCARE",
+      "message": "CONGRATULAZIONI!\nHAI VINTO\n450 €\nOttieni il tuo bonus e unisciti al gioco Chicken road!\nOTTIENI IL TUO BONUS"
+    },
+    "ES": {
+      "button": "JUGAR",
+      "message": "¡FELICIDADES!\nHAS GANADO\n450 €\n¡Obtén tu bono y únete al juego de Chicken road!\n¡OBTÉN TU BONO!"
+    },
+    "RU": {
+      "button": "ИГРАТЬ",
+      "message": "ПОЗДРАВЛЯЕМ!\nВЫ ВЫИГРАЛИ\n45 000 ₽\nПолучите свой бонус и присоединяйтесь к игре Chicken road!\nПОЛУЧИТЬ БОНУС"
+    },
+    "NL": {
+      "button": "SPELEN",
+      "message": "GEFELICITEERD!\nU HEEFT GEWONNEN\n450 €\nHaal uw bonus op en doe mee met het Chicken road!\nHAAL UW BONUS OP"
+    },
+    "DK": {
+      "button": "SPILLE",
+      "message": "TILLYKKE!\nDU HAR VUNDET\n3 350 KR\nFå din bonus og deltag i Chicken road!\nFÅ DIN BONUS"
+    },
+    "FI": {
+      "button": "PELAAMINEN",
+      "message": "ONNITTELUT!\nOLET VOITTANUT\n5 200 €\nHae bonuksesi ja liity Chicken road!\nHAE BONUKSESI"
+    },
+    "GR": {
+      "button": "ΠΑΙΞΤΕ",
+      "message": "ΣΥΓΧΑΡΗΤΗΡΙΑ!\nΚΕΡΔΙΣΑΤΕ\n450 €\nΠάρτε το μπόνους σας και συμμετάσχετε στο παιχνίδι Chicken road!\nΠΑΡΤΕ ΤΟ ΜΠΟΝΟΥΣ ΣΑΣ"
+    },
+    "HU": {
+      "button": "JÁTÉK",
+      "message": "GRATULÁLUNK!\nÖN NYERT\n175 000 Ft\nSzerezze meg bónuszát, és csatlakozzon a Chicken road játékhoz!\nSZEREZZE MEG A BÓNUSZÁT"
+    },
+    "CZ": {
+      "button": "HRÁT",
+      "message": "GRATULUJEME!\nVYHRÁLI JSTE\n11 000 Kč\nZískejte svůj bonus a připojte se ke hře Chicken road!\nZÍSKEJTE SVŮJ BONUS"
+    },
+    "SK": {
+      "button": "HRAŤ",
+      "message": "GRATULUJEME!\nVYHRALI STE\n11 000 Kč\nZískajte svoj бонус a pridajte sa do hry Chicken road!\nЗÍSKAJTE SVOJ BONUS"
+    },
+    "SI": {
+      "button": "IGRATI",
+      "message": "ČESTITAMO!\nZMAGALI STE\n450 €\nPridobite svoj bonus in se pridružite igri Chicken road!\nPRIDOBITE SVOJ BONUS"
+    },
+    "BG": {
+      "button": "ИГРАЙ",
+      "message": "ПОЗДРАВЛЕНИЯ!\nСПЕЧЕЛИХТЕ\n880 ЛЕВА\nВземете бонуса си и се присъединете към играта Chicken road!\nВЗЕМЕТЕ БОНУСА СИ"
+    },
+    "KR": {
+      "button": "놀다",
+      "message": "축하해요!\n당신이 이겼어요\n650,000\n보너스를 받고 치킨 로드 게임에 참여하세요!\n보너스 받기"
+    },
+    "KZ": {
+      "button": "ОЙНАТУ",
+      "message": "ҚҰТТЫҚТАЙМЫЗ!\nСІЗ ҰТТЫҢЫЗ\n235 000 ТЕҢГЕ\nБонусты алып, Chicken road ойынына қосылыңыз!\nБОНОСТЫ АЛЫҢЫЗ"
+    },
+    "TR": {
+      "button": "OYNA",
+      "message": "TEBRİKLER!\n13 500 TL KAZANDINIZ\nBonusu alın ve Chicken road oyununa katılın!\nBONUSUNUZU ALIN"
+    },
+    "UA": {
+      "button": "ГРАТИ",
+      "message": "ВІТАЄМО!\nВИ ВИГРАЛИ\n450 €\nОтримайте свій бонус та приєднуйтесь до гри Chicken road!\nОТРИМАЙТЕ СВІЙ БОНУС"
+    },
+    "PL": {
+      "button": "GRAĆ",
+      "message": "GRATULACJE!\nWYGRAŁEŚ\n2 070 zł\nOdbierz swój bonus i dołącz do gry Chicken road!\nODBIERZ SWÓJ BONUS"
+    },
+    "RO": {
+      "button": "JOACĂ",
+      "message": "FELICITĂRI!\nAȚI CÂȘTIGAT\n2 200 LEI\nObțineți bonusul dvs. și alăturați-vă jocului Chicken road!\nOBȚINEȚI BONUSUL"
+    },
+    "PT": {
+      "button": "JOGAR",
+      "message": "PARABÉNS!\nVOCÊ GANHOU\nR$2 400\nPegue seu bônus e junte-se ao jogo Chicken road!\nPEGUE SEU BÔNUS"
+    }
+  }
+}

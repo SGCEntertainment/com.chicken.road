@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1742478735,
+	"version": 1742561291,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,7 +16,6 @@
 		"images/sprite2-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/sprite5-sheet0.png",
-		"images/sprite4-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/ldoor-sheet0.png",
@@ -25,6 +24,9 @@
 		"images/sprite9-sheet0.png",
 		"images/fire-sheet0.png",
 		"images/particles.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite10-sheet0.png",
+		"images/sprite11-sheet0.png",
 		"media/sfx.ogg",
 		"media/music.ogg",
 		"icon-16.png",
@@ -32,6 +34,12 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"translations.json",
+		"fatfrank heavy.css",
+		"fatfrank.eot",
+		"fatfrank.otf",
+		"fatfrank.svg",
+		"fatfrank.woff"
 	]
 }
