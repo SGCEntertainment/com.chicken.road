@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1742562528,
+	"version": 1742574672,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,7 +39,6 @@
 		"fatfrank heavy.css",
 		"fatfrank.eot",
 		"fatfrank.otf",
-		"fatfrank.svg",
-		"fatfrank.woff"
+		"fatfrank.svg"
 	]
 }
